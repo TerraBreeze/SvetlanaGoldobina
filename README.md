@@ -1,4 +1,4 @@
-## Hi there 👋 My name is Svetlana Goldobina, I'm QA Engineer with testing experience about 1 year.
+## Hi there 👋 My name is Svetlana Goldobina aka TerraBreeze, I'm QA Engineer with testing experience about 1 year.
 My main interests are: interface testing, functional testing, API testing, and mobile app testing.
 
 * Currently I'm in search for my first project in testing
